@@ -1,3 +1,7 @@
 .idea/
 .vscode/
 .DC_Store
+
+# DB style
+*.sqlite3
+vshaurme/*.sqlite3
